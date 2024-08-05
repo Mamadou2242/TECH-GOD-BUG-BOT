@@ -16,13 +16,13 @@ global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: techgod143"
 global.location = "India, Up, Rampur"
 
-global.ownernumber = '917466008456'  //creator number
-global.ownername = '🐛Tech god' //owner name
-global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '224664873993'  //creator number
+global.ownername = '~𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐋𝐈𝐆𝐇𝐓 𝐘𝐀𝐆𝐀𝐌𝐈꧂𓆪' //owner name
+global.botname = 'DEATH NOTE' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContact: +917466008456'
+global.packname = '~𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐋𝐈𝐆𝐇𝐓 𝐘𝐀𝐆𝐀𝐌𝐈꧂𓆪'
+global.author = '~𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐋𝐈𝐆𝐇𝐓 𝐘𝐀𝐆𝐀𝐌𝐈꧂𓆪\n\nContact: +224664873993'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -37,9 +37,9 @@ global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
 global.autoswview = true //auto view status/story
 
