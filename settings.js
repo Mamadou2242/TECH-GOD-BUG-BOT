@@ -16,13 +16,13 @@ global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: techgod143"
 global.location = "India, Up, Rampur"
 
-global.ownernumber = '224664873993'  //creator number
-global.ownername = '~𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐋𝐈𝐆𝐇𝐓 𝐘𝐀𝐆𝐀𝐌𝐈꧂𓆪' //owner name
+global.ownernumber = 224612742173'  //creator number
+global.ownername = '~𓆩꧁𝕊𝔼ℂ𝕂𒆜kagami꧂𓆪' //owner name
 global.botname = 'DEATH NOTE' //name of the bot
 
 //sticker details
-global.packname = '~𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐋𝐈𝐆𝐇𝐓 𝐘𝐀𝐆𝐀𝐌𝐈꧂𓆪'
-global.author = '~𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐋𝐈𝐆𝐇𝐓 𝐘𝐀𝐆𝐀𝐌𝐈꧂𓆪\n\nContact: +224664873993'
+global.packname = '~𓆩꧁𝕊𝔼ℂ𝕂 KAGAMI꧂𓆪'
+global.author = '~𓆩꧁𝕊𝔼ℂ𝕂𒆜KAGAMI꧂𓆪\n\nContact: +224664873993'
 
 //console view/theme
 global.themeemoji = '🪀'
